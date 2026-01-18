@@ -32,18 +32,41 @@ An interactive 3D solar system simulation for exploring planetary orbits, sizes,
 
 ## Controls
 
-**Camera:** `W` `A` `S` `D` to move • Mouse/Arrows to look • `Shift` to speed up  
-**Views:** `1`-`2` (first/third person duck) • `3`-`4` (planet selection on/off)  
-**Modes:** `C` (size comparison) • `X` (black hole) • `R` (reset)  
-**Time:** `Space` (pause) • `+`/`-` (speed) • `9` (reverse) • `0` (reset speed)  
-**Info:** `I` (toggle planet details panel)
+### Camera Movement:
+- **1 & 2**: Switch between first-person and third-person view, as a rubber duck object circulating space
+- **W A S D**: Move around the solar system
+- **Mouse or Arrow Keys**: Look around/rotate camera
+- **Shift**: Move faster through space
+
+### Planet Selection Mode:
+- **3**: Enter planet selection mode / Cycle through planets
+- **4**: Exit planet selection mode (return to free camera)
+- **I**: Show/hide detailed information panel for selected planet
+
+### Time Control:
+- **Space**: Pause/unpause time (all orbital movements)
+- **9**: Reverse time direction (planets orbit backwards)
+- **0**: Reset orbital speed to normal (1x speed)
+- **+ (Plus)**: Increase orbital speed (up to 10x faster)
+- **- (Minus)**: Decrease orbital speed (can go into reverse)
+
+### Special Modes:
+- **X**: Trigger black hole effect 
+- **R**: Reset world to normal state (after black hole)
+- **C**: Activate size comparison mode (align planets by size)
 
 **Pro tip:** Combine modes! Use planet selection in comparison mode for detailed study.
 
-## Tech Stack
+## Libraries Used
 
-OpenGL • GLFW 3.4 • GLM 1.0.1 • GLEW 2.2.0 • Assimp 6.0.2 • C++
+• OpenGL 
+• GLFW 3.4 
+• GLM 1.0.1 
+• GLEW 2.2.0 
+• Assimp 6.0.2 
 
 ## Contributors
 
-Yusuf Chahal • Dania Houssami • Mohammad Alshikh
+• Yusuf Chahal 
+• Dania Houssami 
+• Mohammad Alshikh
