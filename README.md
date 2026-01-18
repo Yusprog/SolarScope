@@ -59,14 +59,14 @@ An interactive 3D solar system simulation for exploring planetary orbits, sizes,
 
 ## Libraries Used
 
-• OpenGL 
-• GLFW 3.4 
-• GLM 1.0.1 
-• GLEW 2.2.0 
-• Assimp 6.0.2 
+- OpenGL 
+- GLFW 3.4 
+- GLM 1.0.1 
+- GLEW 2.2.0 
+- Assimp 6.0.2 
 
 ## Contributors
 
-• Yusuf Chahal 
-• Dania Houssami 
-• Mohammad Alshikh
+- Yusuf Chahal 
+- Dania Houssami 
+- Mohammad Alshikh
