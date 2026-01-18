@@ -3,10 +3,10 @@
 
 An interactive 3D solar system simulation for exploring planetary orbits, sizes, and gravitational physics. This project allows users to explore planetary sizes and orbital mechanics, observe realistic shadow effects between celestial bodies, and experience extreme gravitational phenomena through our black hole simulation. Read the following guide to learn how to navigate and interact with our solar system. 
 
-<img width="395" alt="SolarScope Screenshot" src="https://github.com/user-attachments/assets/c616b2cc-58c1-49d7-ad51-a5721c6858a6" />
-<img width="395" alt="SolarScope Screenshot" src="https://github.com/user-attachments/assets/a3be33e3-deb8-4a23-a171-ebccb59ed759" />
-<img width="395" alt="SolarScope Screenshot" src="https://github.com/Yusprog/SolarScope/blob/12a1273a1e12447fc33565c45b2dae0621b27bfc/textures/Sc1.png" />
- <img width="395" alt="SolarScope Screenshot" src="https://github.com/Yusprog/SolarScope/blob/12a1273a1e12447fc33565c45b2dae0621b27bfc/textures/sc2.png" />
+<img width="395" height="310" alt="SolarScope Screenshot" src="https://github.com/user-attachments/assets/c616b2cc-58c1-49d7-ad51-a5721c6858a6" />
+<img width="395" height="310" alt="SolarScope Screenshot" src="https://github.com/user-attachments/assets/a3be33e3-deb8-4a23-a171-ebccb59ed759" />
+<img width="395" height="310" alt="SolarScope Screenshot" src="https://github.com/Yusprog/SolarScope/blob/12a1273a1e12447fc33565c45b2dae0621b27bfc/textures/Sc1.png" />
+ <img width="395" height="310" alt="SolarScope Screenshot" src="https://github.com/Yusprog/SolarScope/blob/12a1273a1e12447fc33565c45b2dae0621b27bfc/textures/sc2.png" />
 
 
 ## Features
